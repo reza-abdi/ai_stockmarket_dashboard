@@ -45,4 +45,27 @@ A comprehensive, AI-powered stock market dashboard that combines advanced techni
 Python 3.8 or higher
 ```
 
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/erikthiart/ai-stock-dashboard.git
+cd ai-stock-dashboard
+```
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the application**
+```bash
+streamlit run stock_dashboard.py
+```
+
+4. **Open your browser**
+```
+Navigate to http://localhost:8501
+```
+
 
