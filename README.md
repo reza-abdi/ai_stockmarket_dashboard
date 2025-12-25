@@ -69,3 +69,6 @@ Navigate to http://localhost:8501
 ```
 
 
+![ML Predictions](screenshots/machine_learning_predictions.png)
+
+
