@@ -311,7 +311,7 @@ def main():
         <div style='text-align: center; color: #666; padding: 20px;'>
             <p>🚀 <strong>AI Stock Dashboard</strong> - Professional technical analysis with machine learning</p>
             <p><em>⚠️ This is for educational purposes only. Not financial advice.</em></p>
-            <p>Built by <a href='www.linkedin.com/in/syedreza-abdi' target='_blank'>Syed Reza Abdi</a></p>
+            <p>Built by <a href='https://www.linkedin.com/in/syedreza-abdi' target='_blank'>Syed Reza Abdi</a></p>
             <p>📊 Powered by <a href='https://plotly.com' target='_blank'>Plotly</a> and <a href='https://streamlit.io' target='_blank'>Streamlit</a></p>
         </div>
         """, 
