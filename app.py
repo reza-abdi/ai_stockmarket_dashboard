@@ -12,7 +12,7 @@ import plotly.express as px
 def main():
     # Configure Streamlit page
     st.set_page_config(
-    page_title="AI Stock Market Dashboard",
+    page_title="Investra: AI Stock Market Dashboard",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
