@@ -12,12 +12,12 @@ import plotly.express as px
 def main():
     # Configure Streamlit page
     st.set_page_config(
-    page_title="Investra: AI Stock Market Dashboard",
+    page_title="AI Stock Market Dashboard",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-    st.title("🚀 Professional AI Stock Market Dashboard")
+    st.title("🚀 Investra: Professional AI Stock Market Dashboard")
     st.markdown("*Advanced technical analysis with machine learning predictions*")
 
     # Sidebar
